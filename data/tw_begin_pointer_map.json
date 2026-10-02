@@ -1,0 +1,130 @@
+{
+  "dat/items/name": {
+    "begin_pointer_tw": "0x104",
+    "jp": "0x100",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 16701,
+    "weak": true
+  },
+  "dat/items/description": {
+    "begin_pointer_tw": "0x68",
+    "jp": "0x12c",
+    "match_rate": 0.037142857142857144,
+    "hits": 13,
+    "count": 16725,
+    "weak": true
+  },
+  "dat/items/source": {
+    "begin_pointer_tw": "0x68",
+    "jp": "0xa40",
+    "match_rate": 0.002857142857142857,
+    "hits": 1,
+    "count": 16701,
+    "weak": true
+  },
+  "dat/weapons/melee/name": {
+    "begin_pointer_tw": "0x104",
+    "jp": "0x88",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 17568,
+    "weak": true
+  },
+  "dat/weapons/melee/description": {
+    "begin_pointer_tw": "0x78",
+    "jp": "0x8c",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 17568,
+    "weak": true
+  },
+  "dat/weapons/ranged/name": {
+    "begin_pointer_tw": "0x130",
+    "jp": "0x84",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 4223,
+    "weak": true
+  },
+  "dat/weapons/ranged/description": {
+    "begin_pointer_tw": "0x78",
+    "jp": "0x90",
+    "match_rate": 0.005714285714285714,
+    "hits": 2,
+    "count": 4223,
+    "weak": true
+  },
+  "dat/armors/head": {
+    "begin_pointer_tw": "0x104",
+    "jp": "0x64",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 14594,
+    "weak": true
+  },
+  "dat/armors/body": {
+    "begin_pointer_tw": "0x104",
+    "jp": "0x68",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 13462,
+    "weak": true
+  },
+  "dat/armors/arms": {
+    "begin_pointer_tw": "0x104",
+    "jp": "0x6c",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 13452,
+    "weak": true
+  },
+  "dat/armors/legs": {
+    "begin_pointer_tw": "0x104",
+    "jp": "0x74",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 13514,
+    "weak": true
+  },
+  "dat/armors/waist": {
+    "begin_pointer_tw": "0x104",
+    "jp": "0x70",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 13708,
+    "weak": true
+  },
+  "dat/monsters/description": {
+    "begin_pointer_tw": "0x2f8",
+    "jp": "0x134",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 142,
+    "weak": true
+  },
+  "dat/hunting_horn/guide": {
+    "begin_pointer_tw": "0x2fc",
+    "jp": "0x180",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 17,
+    "weak": true
+  },
+  "dat/ranks/label": {
+    "begin_pointer_tw": "0x2f8",
+    "jp": "0x168",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 17,
+    "weak": true
+  },
+  "dat/ranks/requirement": {
+    "begin_pointer_tw": "0x2f8",
+    "jp": "0x168",
+    "match_rate": 0.0,
+    "hits": 0,
+    "count": 17,
+    "weak": true
+  }
+}

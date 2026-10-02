@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "format_version": "1.6",
+    "lang": "en",
+    "note": "Placeholder sample. Replace with Mogapedia translations-en.json (gunzipped)."
+  },
+  "entries": [
+    {
+      "xpath": "dat/item/names",
+      "index": 0,
+      "target": "Dummy Item"
+    }
+  ]
+}

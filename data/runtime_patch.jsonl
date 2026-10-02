@@ -1,0 +1,5 @@
+# One JSON object per line. Built offline from CN mhfdat + FrontierTextHandler.
+# Example (addresses are placeholders — replace with live CN map):
+# {"address":"0x12345678","target":"Potion","max":16}
+#
+# Generate with: python scripts/build_runtime_patch.py --help

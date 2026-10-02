@@ -1,0 +1,65 @@
+# Visual Studio / MSBuild
+.vs/
+**/Debug/
+**/Release/
+**/x64/
+**/Win32/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.ipch
+ipch/
+
+# Build outputs
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+!MHFZTextPatch/lib/*.lib
+
+# Python / TextHandler venv
+.venv/
+__pycache__/
+*.pyc
+
+# Local CN client dumps (large)
+client/
+*.bin
+!data/**
+
+# Fetched / generated translation payloads (large)
+data/translations-en.json
+data/translations-full.json
+data/translations-tw.json
+data/translations-tw.json.gz
+data/align-report.json
+data/_tw_sample.txt
+data/pairs-tw-report.json
+data/pairs-tw-samples.txt
+data/pairs-tw.big5-2014.json
+data/upstream/
+
+# Local stage / offline test scratch
+_ctest/
+_stage_result/
+result.zip
+result*.zip
+scripts/_*.txt
+scripts/_audit_*.py
+scripts/_check_*.py
+scripts/_peek_*.py
+scripts/_find_*.py
+scripts/_zenith.py
+scripts/__pycache__/
+
+# Vendored TextHandler clone (optional local tooling)
+third_party/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
